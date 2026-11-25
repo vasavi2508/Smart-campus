@@ -331,6 +331,6 @@ python campus_maintenance.py
 - **Name:**  v.v.s.s.gayathri
 - **Roll Number:** N26V01A0388
 - **Branch:** CSE
-- **Section:** Section-1
+- **Section:** Section-5
 - **Subject:** Python Programming
 - **Project:** Smart campus
